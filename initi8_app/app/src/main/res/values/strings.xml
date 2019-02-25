@@ -8,4 +8,7 @@
     <string name="password_key">Passwords must be at least 8 characters containing uppercase letters, lowercase letters,
         numbers, and special characters.
     </string>
+    <string name="button_data">Data</string>
+    <string name="button_cot">Circle of Trust</string>
+    <string name="button_ps">Privacy Statement</string>
 </resources>

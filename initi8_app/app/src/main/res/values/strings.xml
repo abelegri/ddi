@@ -5,4 +5,7 @@
     <string name="text_email">email</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
+    <string name="password_key">Passwords must be at least 8 characters containing uppercase letters, lowercase letters,
+        numbers, and special characters.
+    </string>
 </resources>

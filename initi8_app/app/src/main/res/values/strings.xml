@@ -11,4 +11,28 @@
     <string name="button_data">Data</string>
     <string name="button_cot">Circle of Trust</string>
     <string name="button_ps">Privacy Statement</string>
+    <string name="text_privacy">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum tellus id metus
+        pulvinar vulputate. Pellentesque tincidunt, sapien nec viverra egestas, lectus justo fermentum tortor, quis
+        efficitur erat orci vitae est. Ut augue ante, dictum ut semper at, consectetur at nisl. Ut quis ipsum nibh. Nunc
+        vehicula commodo nisi, non fringilla odio porta vel. Vestibulum vitae maximus magna, non viverra enim. Nullam
+        imperdiet suscipit elementum. Aliquam nisl risus, ornare vel diam sit amet, tincidunt rutrum diam. Ut eget magna
+        arcu. Praesent vulputate sit amet turpis non tempus. Nunc auctor dui in enim egestas, ac eleifend dolor
+        interdum. Fusce sagittis ac lorem vitae lacinia. Mauris et fringilla justo. Proin et condimentum ante. Quisque
+        congue, dolor id ornare accumsan, nisi quam tempor massa, ut varius elit nulla quis eros. Quisque euismod odio
+        nunc, non convallis ipsum hendrerit at. Nullam sagittis sem non convallis luctus. Integer tincidunt libero et
+        turpis scelerisque cursus. Quisque eu nulla odio. Nam vulputate tellus sit amet ornare dapibus. Vestibulum
+        interdum risus massa. Vestibulum egestas lacinia posuere. Proin in semper urna. Cras ultrices neque ut rutrum
+        dapibus. Nullam nec lacinia lacus. Maecenas molestie velit enim, at rutrum tellus volutpat eu. Nam purus orci,
+        fermentum eu rhoncus ac, aliquet sit amet lorem. Ut aliquam vulputate magna quis pulvinar. Aenean lobortis a
+        ipsum eget vehicula. Fusce sodales nunc vel eros rutrum, vitae commodo mauris laoreet. Aliquam dapibus urna
+        felis, consectetur porttitor nulla pharetra vel. Proin leo lorem, ornare venenatis sagittis ut, pulvinar sed
+        nibh. Nulla nunc est, varius eget volutpat eget, consectetur vitae massa. Donec luctus placerat tortor,
+        ullamcorper euismod nisl tempus ac. Pellentesque nulla nulla, porttitor at metus porta, elementum ullamcorper
+        est. Integer laoreet nisl ut risus feugiat, et bibendum nisl iaculis. Mauris purus dui, tristique ut mollis id,
+        dictum vitae ante. Sed tincidunt dictum blandit. Morbi lobortis semper lorem pellentesque tempus. Praesent
+        tempor neque tellus, a commodo dolor faucibus at. Sed sollicitudin hendrerit augue, sit amet bibendum nisi
+        vulputate vel. Duis cursus pretium mi nec laoreet. Suspendisse lectus enim, interdum sed egestas vitae, ornare
+        vitae quam. Donec venenatis vestibulum erat at finibus. Fusce dignissim dolor quis aliquet congue. In eleifend
+        auctor leo, vitae semper diam finibus id. Mauris venenatis nibh vitae suscipit condimentum.
+    </string>
 </resources>

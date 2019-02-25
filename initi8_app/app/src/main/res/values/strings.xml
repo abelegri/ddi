@@ -35,4 +35,8 @@
         vitae quam. Donec venenatis vestibulum erat at finibus. Fusce dignissim dolor quis aliquet congue. In eleifend
         auctor leo, vitae semper diam finibus id. Mauris venenatis nibh vitae suscipit condimentum.
     </string>
+    <string name="button_sm">Social Media</string>
+    <string name="button_message">Messaging</string>
+    <string name="button_phone">Phone</string>
+    <string name="button_problem">Problem Sites</string>
 </resources>

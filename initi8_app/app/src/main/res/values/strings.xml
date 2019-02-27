@@ -39,4 +39,11 @@
     <string name="button_message">Messaging</string>
     <string name="button_phone">Phone</string>
     <string name="button_problem">Problem Sites</string>
+    <string name="text_sm_header">Social Media Data</string>
+    <string name="text_message_header">Mobile Messaging Data</string>
+    <string name="text_phone_header">Phone Call Data</string>
+    <string name="text_problem_header">Problem Sites</string>
+    <string name="text_date">date</string>
+    <string name="text_privacy_header">Privacy Statement</string>
+    <string name="description_data_sm">Data summarizing social media usage throughout the day</string>
 </resources>

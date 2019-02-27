@@ -47,4 +47,6 @@
     <string name="text_privacy_header">Privacy Statement</string>
     <string name="description_data_sm">Data summarizing social media usage throughout the day</string>
     <string name="description_data_message">Data summarizing mobile messaging over the past day</string>
+    <string name="text_phone_data"/>
+    <string name="text_phone_data_summary"/>
 </resources>

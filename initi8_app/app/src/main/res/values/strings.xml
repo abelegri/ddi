@@ -27,7 +27,7 @@
         ipsum eget vehicula. Fusce sodales nunc vel eros rutrum, vitae commodo mauris laoreet. Aliquam dapibus urna
         felis, consectetur porttitor nulla pharetra vel. Proin leo lorem, ornare venenatis sagittis ut, pulvinar sed
         nibh. Nulla nunc est, varius eget volutpat eget, consectetur vitae massa. Donec luctus placerat tortor,
-        ullamcorper euismod nisl tempus ac. Pellentesque nulla nulla, porttitor at metus porta, elementum ullamcorper
+        ullamcorper euismod nisl tempus ac. Pellentesque nulla, porttitor at metus porta, elementum ullamcorper
         est. Integer laoreet nisl ut risus feugiat, et bibendum nisl iaculis. Mauris purus dui, tristique ut mollis id,
         dictum vitae ante. Sed tincidunt dictum blandit. Morbi lobortis semper lorem pellentesque tempus. Praesent
         tempor neque tellus, a commodo dolor faucibus at. Sed sollicitudin hendrerit augue, sit amet bibendum nisi
@@ -46,4 +46,5 @@
     <string name="text_date">date</string>
     <string name="text_privacy_header">Privacy Statement</string>
     <string name="description_data_sm">Data summarizing social media usage throughout the day</string>
+    <string name="description_data_message">Data summarizing mobile messaging over the past day</string>
 </resources>

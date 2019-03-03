@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "248811595781",
+    "firebase_url": "https://initi8-4e40c.firebaseio.com",
+    "project_id": "initi8-4e40c",
+    "storage_bucket": "initi8-4e40c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248811595781:android:7ce954316522c017",
+        "android_client_info": {
+          "package_name": "com.example.initi8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248811595781-e9sp4c930dp4636ig8ihukmgrjplmir1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXi2QibCJ1bz-9FEl3aUENIoTe4hD6K3I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

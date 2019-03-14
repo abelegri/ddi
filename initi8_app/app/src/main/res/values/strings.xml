@@ -52,4 +52,15 @@
     <string name="text_cot_header">Circle of Trust</string>
     <string name="text_review">Next review reminder: mm/dd/yy</string>
     <string name="button_cot1">CoT 1</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is not strong enough</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="password_requirement">"Passwords must be at least 8 characters containing uppercase letters, lowercase
+        letters, numbers, and special characters. "
+    </string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+
 </resources>
